@@ -8,7 +8,7 @@
 		<version>3.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.cassol</groupId>
+	<groupId>br.com.empresa</groupId>
 	<artifactId>MCPServerClaudeAIDocs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MCPServerClaudeAIDocs</name>
