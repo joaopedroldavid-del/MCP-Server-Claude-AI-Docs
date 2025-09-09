@@ -1,4 +1,4 @@
-package br.com.cassol.MCPServerClaudeAIDocs;
+package br.com.empresa.MCPServerClaudeAIDocs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
